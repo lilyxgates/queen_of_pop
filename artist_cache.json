@@ -1,0 +1,892 @@
+{
+    "Taylor Swift": {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "genres": [],
+        "popularity": 98,
+        "followers": 137138687,
+        "ranking": 1
+    },
+    "Rihanna": {
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "genres": [],
+        "popularity": 92,
+        "followers": 66955243,
+        "ranking": 2
+    },
+    "Beyonc\u00e9": {
+        "id": "6vWDO969PvNqNYHIOW5v0m",
+        "name": "Beyonc\u00e9",
+        "genres": [],
+        "popularity": 88,
+        "followers": 40278843,
+        "ranking": 3
+    },
+    "Adele": {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "genres": [
+            "soft pop"
+        ],
+        "popularity": 87,
+        "followers": 64060718,
+        "ranking": 4
+    },
+    "Katy Perry": {
+        "id": "6jJ0s89eD6GaHleKKya26X",
+        "name": "Katy Perry",
+        "genres": [
+            "pop"
+        ],
+        "popularity": 87,
+        "followers": 37030725,
+        "ranking": 5
+    },
+    "Lady Gaga": {
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "genres": [
+            "art pop",
+            "pop"
+        ],
+        "popularity": 95,
+        "followers": 37740851,
+        "ranking": 6
+    },
+    "P!nk": {
+        "id": "1KCSPY1glIKqW2TotWuXOR",
+        "name": "P!nk",
+        "genres": [],
+        "popularity": 82,
+        "followers": 17862954,
+        "ranking": 7
+    },
+    "Ariana Grande": {
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "genres": [
+            "pop"
+        ],
+        "popularity": 94,
+        "followers": 105220521,
+        "ranking": 8
+    },
+    "Miley Cyrus": {
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "genres": [],
+        "popularity": 85,
+        "followers": 25925836,
+        "ranking": 9
+    },
+    "Alicia Keys": {
+        "id": "3DiDSECUqqY1AuBP8qtaIa",
+        "name": "Alicia Keys",
+        "genres": [
+            "r&b",
+            "neo soul"
+        ],
+        "popularity": 80,
+        "followers": 12573685,
+        "ranking": 10
+    },
+    "Kelly Clarkson": {
+        "id": "3BmGtnKgCSGYIUhmivXKWX",
+        "name": "Kelly Clarkson",
+        "genres": [
+            "christmas"
+        ],
+        "popularity": 75,
+        "followers": 10822165,
+        "ranking": 11
+    },
+    "Mariah Carey": {
+        "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+        "name": "Mariah Carey",
+        "genres": [
+            "christmas"
+        ],
+        "popularity": 80,
+        "followers": 11387651,
+        "ranking": 12
+    },
+    "Carrie Underwood": {
+        "id": "4xFUf1FHVy696Q1JQZMTRj",
+        "name": "Carrie Underwood",
+        "genres": [
+            "country"
+        ],
+        "popularity": 73,
+        "followers": 6101851,
+        "ranking": 13
+    },
+    "Britney Spears": {
+        "id": "26dSoYclwsYLMAKD3tpOr4",
+        "name": "Britney Spears",
+        "genres": [
+            "pop"
+        ],
+        "popularity": 84,
+        "followers": 16715342,
+        "ranking": 14
+    },
+    "Billie Eilish": {
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "genres": [],
+        "popularity": 95,
+        "followers": 111545126,
+        "ranking": 15
+    },
+    "Nicki Minaj": {
+        "id": "0hCNtLu0JehylgoiP8L4Gh",
+        "name": "Nicki Minaj",
+        "genres": [],
+        "popularity": 87,
+        "followers": 33866181,
+        "ranking": 16
+    },
+    "Destiny\u2019s Child": {
+        "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+        "name": "Destiny's Child",
+        "genres": [],
+        "popularity": 72,
+        "followers": 7848325,
+        "ranking": 17
+    },
+    "SZA": {
+        "id": "7tYKF4w9nC0nq9CsPZTHyP",
+        "name": "SZA",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 93,
+        "followers": 29676514,
+        "ranking": 18
+    },
+    "Avril Lavigne": {
+        "id": "0p4nmQO2msCgU4IF37Wi3j",
+        "name": "Avril Lavigne",
+        "genres": [],
+        "popularity": 79,
+        "followers": 11712533,
+        "ranking": 19
+    },
+    "Christina Aguilera": {
+        "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+        "name": "Christina Aguilera",
+        "genres": [],
+        "popularity": 80,
+        "followers": 8953113,
+        "ranking": 20
+    },
+    "Olivia Rodrigo": {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "genres": [],
+        "popularity": 88,
+        "followers": 45659380,
+        "ranking": 21
+    },
+    "Jennifer Lopez": {
+        "id": "2DlGxzQSjYe5N6G9nkYghR",
+        "name": "Jennifer Lopez",
+        "genres": [],
+        "popularity": 78,
+        "followers": 13557641,
+        "ranking": 22
+    },
+    "Mary J. Blige": {
+        "id": "1XkoF8ryArs86LZvFOkbyr",
+        "name": "Mary J. Blige",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 74,
+        "followers": 4206211,
+        "ranking": 23
+    },
+    "Doja Cat": {
+        "id": "5cj0lLjcoR7YOSnhnX0Po5",
+        "name": "Doja Cat",
+        "genres": [],
+        "popularity": 87,
+        "followers": 33229604,
+        "ranking": 24
+    },
+    "Dua Lipa": {
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "genres": [
+            "pop"
+        ],
+        "popularity": 89,
+        "followers": 46004188,
+        "ranking": 25
+    },
+    "Kesha": {
+        "id": "6LqNN22kT3074XbTVUrhzX",
+        "name": "Kesha",
+        "genres": [],
+        "popularity": 82,
+        "followers": 8691667,
+        "ranking": 26
+    },
+    "Cardi B": {
+        "id": "4kYSro6naA4h99UJvo89HB",
+        "name": "Cardi B",
+        "genres": [],
+        "popularity": 81,
+        "followers": 25309848,
+        "ranking": 27
+    },
+    "Fergie": {
+        "id": "3r17AfJCCUqC9Lf0OAc73G",
+        "name": "Fergie",
+        "genres": [],
+        "popularity": 72,
+        "followers": 6019417,
+        "ranking": 28
+    },
+    "Ashanti": {
+        "id": "5rkVyNGXEgeUqKkB5ccK83",
+        "name": "Ashanti",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 74,
+        "followers": 3418613,
+        "ranking": 29
+    },
+    "Selena Gomez": {
+        "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "name": "Selena Gomez",
+        "genres": [
+            "pop"
+        ],
+        "popularity": 88,
+        "followers": 52511086,
+        "ranking": 30
+    },
+    "Norah Jones": {
+        "id": "2Kx7MNY7cI1ENniW7vT30N",
+        "name": "Norah Jones",
+        "genres": [],
+        "popularity": 74,
+        "followers": 3308194,
+        "ranking": 31
+    },
+    "Gwen Stefani": {
+        "id": "4yiQZ8tQPux8cPriYMWUFP",
+        "name": "Gwen Stefani",
+        "genres": [],
+        "popularity": 76,
+        "followers": 6867840,
+        "ranking": 32
+    },
+    "Meghan Trainor": {
+        "id": "6JL8zeS1NmiOftqZTRgdTz",
+        "name": "Meghan Trainor",
+        "genres": [],
+        "popularity": 78,
+        "followers": 15730440,
+        "ranking": 33
+    },
+    "The Chicks": {
+        "id": "25IG9fa7cbdmCIy3OnuH57",
+        "name": "The Chicks",
+        "genres": [
+            "country"
+        ],
+        "popularity": 68,
+        "followers": 1505709,
+        "ranking": 34
+    },
+    "Faith Hill": {
+        "id": "25NQNriVT2YbSW80ILRWJa",
+        "name": "Faith Hill",
+        "genres": [
+            "country"
+        ],
+        "popularity": 64,
+        "followers": 1919901,
+        "ranking": 35
+    },
+    "Madonna": {
+        "id": "6tbjWDEIzxoDsBA1FuhfPW",
+        "name": "Madonna",
+        "genres": [],
+        "popularity": 81,
+        "followers": 8527042,
+        "ranking": 36
+    },
+    "Halsey": {
+        "id": "26VFTg2z8YR0cCuwLzESi2",
+        "name": "Halsey",
+        "genres": [],
+        "popularity": 84,
+        "followers": 22117710,
+        "ranking": 37
+    },
+    "Ciara": {
+        "id": "2NdeV5rLm47xAvogXrYhJX",
+        "name": "Ciara",
+        "genres": [],
+        "popularity": 73,
+        "followers": 7128502,
+        "ranking": 38
+    },
+    "Evanescence": {
+        "id": "5nGIFgo0shDenQYSE0Sn7c",
+        "name": "Evanescence",
+        "genres": [
+            "alternative metal"
+        ],
+        "popularity": 78,
+        "followers": 5513582,
+        "ranking": 39
+    },
+    "Missy Elliott": {
+        "id": "2wIVse2owClT7go1WT98tk",
+        "name": "Missy Elliott",
+        "genres": [
+            "hip hop"
+        ],
+        "popularity": 73,
+        "followers": 2654700,
+        "ranking": 40
+    },
+    "Janet Jackson": {
+        "id": "4qwGe91Bz9K2T8jXTZ815W",
+        "name": "Janet Jackson",
+        "genres": [
+            "new jack swing"
+        ],
+        "popularity": 71,
+        "followers": 4050375,
+        "ranking": 41
+    },
+    "Lizzo": {
+        "id": "56oDRnqbIiwx4mymNEv7dS",
+        "name": "Lizzo",
+        "genres": [],
+        "popularity": 72,
+        "followers": 5717184,
+        "ranking": 42
+    },
+    "Nelly Furtado": {
+        "id": "2jw70GZXlAI8QzWeY2bgRc",
+        "name": "Nelly Furtado",
+        "genres": [],
+        "popularity": 79,
+        "followers": 4421289,
+        "ranking": 43
+    },
+    "Lorde": {
+        "id": "163tK9Wjr9P9DmM0AVK7lm",
+        "name": "Lorde",
+        "genres": [],
+        "popularity": 83,
+        "followers": 10321243,
+        "ranking": 44
+    },
+    "Shakira": {
+        "id": "0EmeFodog0BfCgMzAIvKQp",
+        "name": "Shakira",
+        "genres": [
+            "latin pop"
+        ],
+        "popularity": 88,
+        "followers": 37931305,
+        "ranking": 45
+    },
+    "Sugarland": {
+        "id": "0hYxQe3AK5jBPCr5MumLHD",
+        "name": "Sugarland",
+        "genres": [
+            "country"
+        ],
+        "popularity": 58,
+        "followers": 1973216,
+        "ranking": 46
+    },
+    "Aaliyah": {
+        "id": "0urTpYCsixqZwgNTkPJOJ4",
+        "name": "Aaliyah",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 68,
+        "followers": 4860598,
+        "ranking": 47
+    },
+    "Celine Dion": {
+        "id": "4S9EykWXhStSc15wEx8QFK",
+        "name": "C\u00e9line Dion",
+        "genres": [
+            "vari\u00e9t\u00e9 fran\u00e7aise"
+        ],
+        "popularity": 77,
+        "followers": 9790058,
+        "ranking": 48
+    },
+    "The Pussycat Dolls": {
+        "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+        "name": "The Pussycat Dolls",
+        "genres": [],
+        "popularity": 72,
+        "followers": 6037844,
+        "ranking": 49
+    },
+    "Sabrina Carpenter": {
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "genres": [],
+        "popularity": 92,
+        "followers": 22259234,
+        "ranking": 50
+    },
+    "Camila Cabello": {
+        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "name": "Camila Cabello",
+        "genres": [],
+        "popularity": 82,
+        "followers": 34907445,
+        "ranking": 51
+    },
+    "Demi Lovato": {
+        "id": "6S2OmqARrzebs0tKUEyXyp",
+        "name": "Demi Lovato",
+        "genres": [],
+        "popularity": 79,
+        "followers": 27156808,
+        "ranking": 52
+    },
+    "Sheryl Crow": {
+        "id": "4TKTii6gnOnUXQHyuo9JaD",
+        "name": "Sheryl Crow",
+        "genres": [],
+        "popularity": 70,
+        "followers": 1284008,
+        "ranking": 53
+    },
+    "Colbie Caillat": {
+        "id": "6aZyMrc4doVtZyKNilOmwu",
+        "name": "Colbie Caillat",
+        "genres": [],
+        "popularity": 69,
+        "followers": 2542930,
+        "ranking": 54
+    },
+    "Sia": {
+        "id": "5WUlDfRSoLAfcVSX1WnrxN",
+        "name": "Sia",
+        "genres": [],
+        "popularity": 86,
+        "followers": 29843558,
+        "ranking": 55
+    },
+    "Miranda Lambert": {
+        "id": "66lH4jAE7pqPlOlzUKbwA0",
+        "name": "Miranda Lambert",
+        "genres": [
+            "country"
+        ],
+        "popularity": 71,
+        "followers": 3679100,
+        "ranking": 56
+    },
+    "Leona Lewis": {
+        "id": "5lKZWd6HiSCLfnDGrq9RAm",
+        "name": "Leona Lewis",
+        "genres": [],
+        "popularity": 67,
+        "followers": 3715315,
+        "ranking": 57
+    },
+    "Keyshia Cole": {
+        "id": "1vfezMIyCr4XUdYRaKIKi3",
+        "name": "Keyshia Cole",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 72,
+        "followers": 4189104,
+        "ranking": 58
+    },
+    "No Doubt": {
+        "id": "0cQbJU1aAzvbEmTuljWLlF",
+        "name": "No Doubt",
+        "genres": [],
+        "popularity": 71,
+        "followers": 3033471,
+        "ranking": 59
+    },
+    "Dido": {
+        "id": "2mpeljBig2IXLXRAFO9AAs",
+        "name": "Dido",
+        "genres": [],
+        "popularity": 76,
+        "followers": 2041230,
+        "ranking": 60
+    },
+    "Enya": {
+        "id": "6uothxMWeLWIhsGeF7cyo4",
+        "name": "Enya",
+        "genres": [
+            "new age",
+            "celtic"
+        ],
+        "popularity": 74,
+        "followers": 2441230,
+        "ranking": 61
+    },
+    "Ellie Goulding": {
+        "id": "0X2BH1fck6amBIoJhDVmmJ",
+        "name": "Ellie Goulding",
+        "genres": [],
+        "popularity": 82,
+        "followers": 13041799,
+        "ranking": 62
+    },
+    "Megan Thee Stallion": {
+        "id": "181bsRPaVXVlUKXrxwZfHK",
+        "name": "Megan Thee Stallion",
+        "genres": [],
+        "popularity": 81,
+        "followers": 10406440,
+        "ranking": 63
+    },
+    "Sara Bareilles": {
+        "id": "2Sqr0DXoaYABbjBo9HaMkM",
+        "name": "Sara Bareilles",
+        "genres": [],
+        "popularity": 67,
+        "followers": 1981532,
+        "ranking": 64
+    },
+    "Jessica Simpson": {
+        "id": "2tFN9ubMXEhdAQvdQxcsma",
+        "name": "Jessica Simpson",
+        "genres": [],
+        "popularity": 50,
+        "followers": 1300683,
+        "ranking": 65
+    },
+    "Shania Twain": {
+        "id": "5e4Dhzv426EvQe3aDb64jL",
+        "name": "Shania Twain",
+        "genres": [
+            "country"
+        ],
+        "popularity": 74,
+        "followers": 3274350,
+        "ranking": 66
+    },
+    "Eve": {
+        "id": "4d3yvTptO48nOYTPBcPFZC",
+        "name": "Eve",
+        "genres": [],
+        "popularity": 70,
+        "followers": 1517879,
+        "ranking": 67
+    },
+    "Natasha Bedingfield": {
+        "id": "7o95ZoZt5ZYn31e9z1Hc0a",
+        "name": "Natasha Bedingfield",
+        "genres": [],
+        "popularity": 76,
+        "followers": 1869687,
+        "ranking": 68
+    },
+    "Whitney Houston": {
+        "id": "6XpaIBNiVzIetEPCWDvAFP",
+        "name": "Whitney Houston",
+        "genres": [],
+        "popularity": 79,
+        "followers": 11143326,
+        "ranking": 69
+    },
+    "Iggy Azalea": {
+        "id": "5yG7ZAZafVaAlMTeBybKAL",
+        "name": "Iggy Azalea",
+        "genres": [],
+        "popularity": 71,
+        "followers": 6762222,
+        "ranking": 70
+    },
+    "Lana Del Rey": {
+        "id": "00FQb4jTyendYWaN8pK0wa",
+        "name": "Lana Del Rey",
+        "genres": [],
+        "popularity": 92,
+        "followers": 47335543,
+        "ranking": 71
+    },
+    "Amy Winehouse": {
+        "id": "6Q192DXotxtaysaqNPy5yR",
+        "name": "Amy Winehouse",
+        "genres": [],
+        "popularity": 79,
+        "followers": 9567450,
+        "ranking": 72
+    },
+    "Hilary Duff": {
+        "id": "2S9W9aSAd7e5mp8WqWxN2h",
+        "name": "Hilary Duff",
+        "genres": [],
+        "popularity": 57,
+        "followers": 2358724,
+        "ranking": 73
+    },
+    "Gretchen Wilson": {
+        "id": "0IdYRFTswLdsGwSnzOaGNF",
+        "name": "Gretchen Wilson",
+        "genres": [
+            "country"
+        ],
+        "popularity": 58,
+        "followers": 955762,
+        "ranking": 74
+    },
+    "Carly Rae Jepsen": {
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "genres": [],
+        "popularity": 73,
+        "followers": 5095911,
+        "ranking": 75
+    },
+    "Susan Boyle": {
+        "id": "1qAuetfG6mhtDgsVIffWQc",
+        "name": "Susan Boyle",
+        "genres": [
+            "christmas"
+        ],
+        "popularity": 47,
+        "followers": 257421,
+        "ranking": 76
+    },
+    "Jordin Sparks": {
+        "id": "2AQjGvtT0pFYfxR3neFcvz",
+        "name": "Jordin Sparks",
+        "genres": [],
+        "popularity": 65,
+        "followers": 2486346,
+        "ranking": 77
+    },
+    "Ashlee Simpson": {
+        "id": "4hqDqHtBlgxXpLXVYf7c8L",
+        "name": "Ashlee Simpson",
+        "genres": [
+            "bubblegum pop"
+        ],
+        "popularity": 50,
+        "followers": 978254,
+        "ranking": 78
+    },
+    "Martina McBride": {
+        "id": "3P33qFNGBVXl86yQYWspFj",
+        "name": "Martina McBride",
+        "genres": [
+            "country"
+        ],
+        "popularity": 58,
+        "followers": 1396591,
+        "ranking": 79
+    },
+    "Chappell Roan": {
+        "id": "7GlBOeep6PqTfFi59PTUUN",
+        "name": "Chappell Roan",
+        "genres": [],
+        "popularity": 87,
+        "followers": 6138698,
+        "ranking": 80
+    },
+    "Fleetwood Mac": {
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "genres": [
+            "classic rock",
+            "soft rock"
+        ],
+        "popularity": 84,
+        "followers": 13104692,
+        "ranking": 81
+    },
+    "The Band Perry": {
+        "id": "75FnCoo4FBxH5K1Rrx0k5A",
+        "name": "The Band Perry",
+        "genres": [
+            "country"
+        ],
+        "popularity": 57,
+        "followers": 1611311,
+        "ranking": 82
+    },
+    "Michelle Branch": {
+        "id": "5rScKX1Sh1U67meeUyTGwk",
+        "name": "Michelle Branch",
+        "genres": [],
+        "popularity": 61,
+        "followers": 676948,
+        "ranking": 83
+    },
+    "Alessia Cara": {
+        "id": "2wUjUUtkb5lvLKcGKsKqsR",
+        "name": "Alessia Cara",
+        "genres": [],
+        "popularity": 75,
+        "followers": 12121015,
+        "ranking": 84
+    },
+    "Summer Walker": {
+        "id": "57LYzLEk2LcFghVwuWbcuS",
+        "name": "Summer Walker",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 80,
+        "followers": 7615041,
+        "ranking": 85
+    },
+    "Reba McEntire": {
+        "id": "02rd0anEWfMtF7iMku9uor",
+        "name": "Reba McEntire",
+        "genres": [
+            "country"
+        ],
+        "popularity": 63,
+        "followers": 2171731,
+        "ranking": 86
+    },
+    "Keri Hilson": {
+        "id": "63wjoROpeh5f11Qm93UiJ1",
+        "name": "Keri Hilson",
+        "genres": [],
+        "popularity": 71,
+        "followers": 2096850,
+        "ranking": 87
+    },
+    "Barbra Streisand": {
+        "id": "7jmTilWYlKOuavFfmQAcu6",
+        "name": "Barbra Streisand",
+        "genres": [
+            "adult standards"
+        ],
+        "popularity": 65,
+        "followers": 1634587,
+        "ranking": 88
+    },
+    "My\u00e1": {
+        "id": "6lHL3ubAMgSasKjNqKb8HF",
+        "name": "M\u00fda",
+        "genres": [],
+        "popularity": 64,
+        "followers": 1521301,
+        "ranking": 89
+    },
+    "Bebe Rexha": {
+        "id": "64M6ah0SkkRsnPGtGiRAbb",
+        "name": "Bebe Rexha",
+        "genres": [],
+        "popularity": 79,
+        "followers": 9618202,
+        "ranking": 90
+    },
+    "Paramore": {
+        "id": "74XFHRwlV6OrjEM0A2NCMF",
+        "name": "Paramore",
+        "genres": [
+            "pop punk",
+            "emo",
+            "emo pop"
+        ],
+        "popularity": 82,
+        "followers": 9389759,
+        "ranking": 91
+    },
+    "Lil\u2019 Kim": {
+        "id": "5tth2a3v0sWwV1C7bApBdX",
+        "name": "Lil' Kim",
+        "genres": [
+            "east coast hip hop"
+        ],
+        "popularity": 67,
+        "followers": 1850564,
+        "ranking": 92
+    },
+    "Brenda Lee": {
+        "id": "4cPHsZM98sKzmV26wlwD2W",
+        "name": "Brenda Lee",
+        "genres": [
+            "christmas"
+        ],
+        "popularity": 58,
+        "followers": 449053,
+        "ranking": 93
+    },
+    "Toni Braxton": {
+        "id": "3X458ddYA2YcVWuVIGGOYe",
+        "name": "Toni Braxton",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 66,
+        "followers": 4394763,
+        "ranking": 94
+    },
+    "Charli XCX": {
+        "id": "25uiPmTg16RbhZWAqwLBy5",
+        "name": "Charli xcx",
+        "genres": [
+            "hyperpop",
+            "art pop"
+        ],
+        "popularity": 87,
+        "followers": 5485762,
+        "ranking": 95
+    },
+    "Sade": {
+        "id": "47zz7sob9NUcODy0BTDvKx",
+        "name": "Sade",
+        "genres": [],
+        "popularity": 78,
+        "followers": 4712707,
+        "ranking": 96
+    },
+    "Fifth Harmony": {
+        "id": "1l8Fu6IkuTP0U5QetQJ5Xt",
+        "name": "Fifth Harmony",
+        "genres": [],
+        "popularity": 71,
+        "followers": 16286741,
+        "ranking": 97
+    },
+    "Fantasia": {
+        "id": "7xAcVHPiirnUqfdqo0USb1",
+        "name": "Fantasia",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 58,
+        "followers": 2186626,
+        "ranking": 98
+    },
+    "Vanessa Carlton": {
+        "id": "5ILrArfIV0tMURcHJN8Q07",
+        "name": "Vanessa Carlton",
+        "genres": [],
+        "popularity": 66,
+        "followers": 686126,
+        "ranking": 99
+    },
+    "Danity Kane": {
+        "id": "3FD9VAd0ppjmKbfxF4LzUh",
+        "name": "Danity Kane",
+        "genres": [],
+        "popularity": 49,
+        "followers": 652152
+    }
+}

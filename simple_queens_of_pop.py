@@ -25,8 +25,8 @@ import seaborn as sns
 with open("keys.yml", 'r') as file:
     keys = yaml.safe_load(file)
 
-CLIENT_ID = keys['spotify_popqueen_key']
-CLIENT_SECRET = keys['spotify_popqueen_pass']
+CLIENT_ID = keys['spotify_song_key']
+CLIENT_SECRET = keys['spotify_song_pass']
 REDIRECT_URI = keys['spotify_uri']
 SCOPE = "user-library-read"
 
@@ -243,25 +243,3 @@ cluster_summary.columns = ['Avg Ranking', 'Avg Followers', 'Avg Popularity', 'To
 
 # Convert Clusters Summary into .CSV
 cluster_summary.to_csv('cluster_summary.csv')
-
-"""
-##################################
-##### GRAPH: CLUSTER FEATURES ####
-##### AVERAGES & TOP GENRES ######
-##################################
-
-# Melt the DataFrame for longer format
-cluster_melt = cluster_summary.reset_index().melt(
-    id_vars='index', var_name='Metric', value_name='Value'
-)
-cluster_melt.rename(columns={'index': 'Cluster'}, inplace=True)
-
-plt.figure(figsize=(14, 6))
-sns.barplot(data=cluster_melt, x='Cluster', y='Value', hue='Metric', palette='Set2')
-plt.title("Cluster Averages for Ranking, Followers, and Popularity")
-plt.ylabel("Standardized Value")
-plt.xticks(rotation=45)
-plt.legend(title='Metric')
-plt.tight_layout()
-plt.show()
-"""
